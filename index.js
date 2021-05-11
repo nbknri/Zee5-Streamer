@@ -287,7 +287,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/90c8785761d3f42c73b1f.jpg') no-repeat;
+        background: url('https://www.zee5.com/images/ZEE5_logo.svg') no-repeat;
         background-size: 35px auto, auto;
     }
 
