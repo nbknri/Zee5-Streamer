@@ -192,7 +192,7 @@ async function template(title, thumb, hls, vtt_thumbnail_url) {
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
-  <link rel="stylesheet" href="https://cdn.plyr.io/3.6.7/plyr.css" />
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
   <link href="https://fonts.googleapis.com/css?family=Poppins|Quattrocento+Sans" rel="stylesheet"/>
   <script src="https://cdn.plyr.io/3.6.7/plyr.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/hls.js"></script>
