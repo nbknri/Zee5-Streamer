@@ -40,7 +40,7 @@ body{ background-color:#202020;}
   
 <br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Balsamiq Sans', cursive; font-size: 17px;">👇 Enter Your ZEE5 URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
-  <div><form method="get"  action="https://stremio.connectvip.workers.dev" _lpchecked="1">
+  <div><form method="get"  action="https://stremio.ml" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
@@ -121,7 +121,7 @@ body{ background-color:#202020;}
 
 <br><br><br>
 
-  <div><form method="get"  action="https://stremio.connectvip.workers.dev" _lpchecked="1">
+  <div><form method="get"  action="https://stremio.ml" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
