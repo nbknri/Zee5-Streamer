@@ -26,8 +26,8 @@ async function handleRequest(request) {
   <title> ZEE5 Online Player and Downloader </title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
-  <link rel="stylesheet" href="https://avipatilpro.github.io/host/zstyle.css">
+  <link rel="stylesheet" href="https://ytmods.ga/Database/css/zee5.css">
+  <link rel="stylesheet" href="https://ytmods.ga/Database/css/zee.css">
 
 <style>
 body{ background-color:#202020;}
@@ -102,8 +102,8 @@ Stream
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
 
   <title>Not Found | ZEE5 Online Player and Downloader !!</title>
-  <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
-  <link rel="stylesheet" href="https://avipatilpro.github.io/host/zstyle.css">
+  <link rel="stylesheet" href="https://ytmods.ga/Database/css/zee5.css">
+  <link rel="stylesheet" href="https://ytmods.ga/Database/css/zee.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap" rel="stylesheet">
 
